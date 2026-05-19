@@ -19,16 +19,6 @@
 
 ---
 
-```
-about me
-├── based in      → Addis Ababa, Ethiopia
-├── driven by     → faith, curiosity, and ideas that won't let go
-├── building      → desktop tools, sync systems, and things for people who've been waiting
-└── currently     → too many ideas, not enough hours
-```
-
----
-
 ### stack
 
 <p align="center">
@@ -41,9 +31,6 @@ about me
 
 <div align="center">
 
-![Bonsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bonsa-Dereje&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Bonsa-Dereje&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bonsa-Dereje&theme=tokyonight&hide_border=true)
 
@@ -53,6 +40,5 @@ about me
 
 <div align="center">
 
-*shipping slowly · thinking always · building for the ones nobody builds for*
 
 </div>
