@@ -1,6 +1,6 @@
 <div align="center">
 
-```txt
+```
 ██████╗  ██████╗ ███╗   ██╗██╗
 ██╔══██╗██╔═══██╗████╗  ██║██║
 ██████╔╝██║   ██║██╔██╗ ██║██║
@@ -31,12 +31,14 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Bonsa-Dereje&theme=tokyonight&hide_border=true&cache_seconds=1)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bonsa-Dereje&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
 <div align="center">
+
 
 </div>
