@@ -31,8 +31,7 @@
 
 <div align="center">
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bonsa-Dereje&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Bonsa-Dereje&theme=tokyonight&hide_border=true)
 
 </div>
 
