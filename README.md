@@ -22,7 +22,7 @@
 ### stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=svelte,js,rust,nodejs,tauri,mongodb,supabase,git,github,java&perline=10" />
+  <img src="https://skillicons.dev/icons?i=svelte,js,rust,nodejs,tauri,mongodb,supabase,git,github,java,py,opencv,linux&perline=10" />
 </p>
 
 ---
@@ -38,6 +38,5 @@
 ---
 
 <div align="center">
-
 
 </div>
