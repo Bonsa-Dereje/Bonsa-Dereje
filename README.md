@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-██████╗  ██████╗ ███╗   ██╗██╗
-██╔══██╗██╔═══██╗████╗  ██║██║
-██████╔╝██║   ██║██╔██╗ ██║██║
-██╔══██╗██║   ██║██║╚██╗██║██║
-██████╔╝╚██████╔╝██║ ╚████║██║
-╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝
+██████╗  ██████╗ ███╗   ██╗██╗ 
+██╔══██╗██╔═══██╗████╗  ██║██║ 
+██████╔╝██║   ██║██╔██╗ ██║██║ 
+██╔══██╗██║   ██║██║╚██╗██║██║ 
+██████╔╝╚██████╔╝██║ ╚████║██║ 
+╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝ 
 ```
 
 **Christian · Curious · Creative**
@@ -21,9 +21,15 @@
 
 ### stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=svelte,js,rust,nodejs,tauri,mongodb,supabase,git,github,java,py,opencv,linux&perline=10" />
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=svelte,js,rust,nodejs,tauri,mongodb,supabase,postgres,sqlite,git,github,java,python,linux,cpp&perline=10" />
+<br/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-00A1F1?style=for-the-badge&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</div>
 
 ---
 
@@ -32,11 +38,5 @@
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Bonsa-Dereje&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
 
 </div>
