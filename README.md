@@ -21,7 +21,7 @@
 
 ### stack 
 <div align="center">
- <img src="https://skillicons.dev/icons?i=svelte,js,rust,nodejs,flutter,tauri,mongodb,supabase,postgres,sqlite,git,github,java,python,linux,cpp&perline=10" />
+ <img src="https://skillicons.dev/icons?i=svelte,react,angular,js,rust,nodejs,flutter,tauri,mongodb,supabase,postgres,sqlite,git,github,java,python,linux,cpp&perline=10" />
  <br/>
  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
  <img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
